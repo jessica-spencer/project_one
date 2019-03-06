@@ -24,3 +24,25 @@ header p{
     font-style: italic;
 }
 
+.aboutus {
+    text-align: center;
+}
+
+.aboutus    i{
+    font-size: 30px;
+    padding: 25px 20px;
+    color: #fff; /*white*/
+   	background-color: #5cb85c; /*green*/
+   	/*changes the height of the container */
+   	width: 80px;
+    height: 80px;
+    /*Changes the roundness of the container*/
+    border-radius: 50%;
+
+}
+
+.aboutus span {
+    width: 200px;
+    display: inline-block;
+}
+
